@@ -1,4 +1,4 @@
-import {BrowserRouter as Router, Route, Routes,Link} from 'react-router-dom'
+import {BrowserRouter as Router, Route, Routes} from 'react-router-dom'
 import Home from './components/pages/Home'
 import Contact from './components/pages/Contact'
 import Company from './components/pages/Company'
@@ -19,7 +19,7 @@ function App() {
           <Route path="/company" element={<Company/>} />
           <Route path="/contact" element={<Contact/>} />
           <Route path="/projects" element={<Projects/>} />
-          <Route path="/newproject" element={<Projects/>} />
+          <Route path="/newproject" element={<NewProject/>} />
         </Routes>
       </Container>        
       <Footer />
