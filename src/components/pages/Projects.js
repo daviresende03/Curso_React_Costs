@@ -19,7 +19,7 @@ function Projects(){
     }
 
     useEffect(() => {
-        setTimeout(() => {
+        //setTimeout(() => {
             fetch('http://localhost:5000/projects', {
             method: 'GET',
             headers: {
@@ -32,7 +32,7 @@ function Projects(){
                 setRemoveLoading(true)
             })
             .catch((err) => console.log(err))
-        }, 3000)
+        //}, 3000)
     }, [])
 
     function removeProject(id) {
