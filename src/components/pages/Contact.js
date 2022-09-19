@@ -1,4 +1,4 @@
-function Contac() {
-    return <h1>Contac</h1>
+function Contact() {
+    return <h1>Contato</h1>
 }
-export default Contac
+export default Contact
