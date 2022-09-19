@@ -7,49 +7,8 @@
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": null,
-      "services": [
-        {
-          "name": "Serviço1",
-          "cost": "121",
-          "description": "1",
-          "id": "25d94d2c-1b85-4f60-9cbc-cfa32f5dce96"
-        },
-        {
-          "name": "teste 3",
-          "cost": "232",
-          "description": "123",
-          "id": "c458608a-0497-4f9d-8483-dd2c429ebf8b"
-        },
-        {
-          "name": "23233",
-          "cost": "2",
-          "description": "333",
-          "id": "45825fbb-52ff-45d3-8354-d109a882b7bc"
-        },
-        {
-          "name": "12234",
-          "cost": "1",
-          "description": "1",
-          "id": "abd634cc-825b-4abe-9bb8-203cf77352d8"
-        },
-        {
-          "name": "serve teste",
-          "cost": "1",
-          "description": "1",
-          "id": "45851bc0-24be-49b5-8840-f3a87acdb07c"
-        },
-        {
-          "description": "1",
-          "id": "98e97e88-2def-4f5a-93b2-30196505eee3"
-        },
-        {
-          "name": "1",
-          "cost": "2",
-          "description": "3",
-          "id": "1e8fc82a-5aa1-461d-b183-dbd134b12c45"
-        }
-      ],
+      "cost": 0,
+      "services": [],
       "id": 1
     }
   ],
